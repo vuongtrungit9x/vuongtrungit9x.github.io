@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Vương Anh Trung
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mình là Vương Anh Trung, hiện đang là software engineer tại Seta-International Việt Nam
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Trang blog này mình viết ra nhằm chia sẻ bài viết công nghệ, kinh nghiệm làm việc cũng như cuộc sống thường ngày (chuyện ăn chơi) của 1 lập trình viên.
 
-What else do you need?
+### Đôi nét về bản thân
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Tốt nghiệp đại học Bách Khoa Hà Nội khóa K56.
+- Đã từng làm việc tại công ty của Bộ quốc phòng, Nhật, Mỹ.
+- Trải qua những khác biệt về văn hóa của công ty product, outsourcing cũng như startup.
+- Đam mê công nghệ, luôn tìm tòi học hỏi cộng nghệ mới.
+- Mục tiêu mong muốn chia sẻ 1 phần tri thức giúp nâng cao năng lực của ngành lập trình nước nhà.
